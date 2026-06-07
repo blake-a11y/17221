@@ -11,3 +11,6 @@ Where source documents disagree, both values are recorded here with the resoluti
 | 5 | Plan designation | 2511 (plot/electrical) / 2511L (selection) / 2511R (plumbing) | Same plan; L/R are elevation/orientation variants. No spec conflict. |
 | 6 | Solar battery | Powerwall 3 spec page included; not on the contracted system line | **Inclusion unconfirmed.** Verify whether a Powerwall was purchased/installed. |
 | 7 | Municipality (EV doc) | "City of Waddell" stated | Waddell is generally **unincorporated Maricopa County**; confirm the authority having jurisdiction locally. |
+
+## Resolved - Municipality / AHJ (2026-06)
+Prior conflict: an EV document referenced "City of Waddell" as the jurisdiction. Resolved: panel photographs show Maricopa County inspection stickers (Building Safety Division / Inspection Services Division, 602-506-3301), one hand-marked with the property address. Authority having jurisdiction is Maricopa County; Waddell is unincorporated. Status: RESOLVED.

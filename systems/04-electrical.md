@@ -39,3 +39,9 @@ Options selected (plan checkmarks / annotations):
 - Panel location detail, total service rating, and breaker/circuit schedule
 - Electrical load calculation
 (Requested from builder — see `_meta/open-gaps.md`.)
+
+## Update - panel photographs (2026-06)
+- Service size confirmed: 200A (Eaton CSR main breaker; panel Eaton MBE4040B200-series, 200A, 120/240V single-phase, Type 3R, 40-space; meter socket 170A continuous). This supersedes any "not specified" service-amperage entry above.
+- Solar interconnection documented: bi-directional APS meter; two Siemens 100A 240V AC disconnects (DER-side and utility); PV AC disconnect rated 48A/240V; inverter backfeed breaker in panel.
+- Partial circuit directory and confirmed equipment recorded in `04b-electrical-as-built.md`; capacity assessment in `04a-electrical-capacity.md`.
+- Authority having jurisdiction confirmed: Maricopa County (county inspection stickers on panel).

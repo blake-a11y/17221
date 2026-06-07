@@ -1,21 +1,31 @@
-# HVAC (Heating, Ventilation, Air Conditioning)
+﻿# HVAC
 
-**Sources:** Plot plan (A/C pads); Kevens rear-landscape plan (A/C symbols); Granite Vista HOA guidelines.
+**Sources:** Homeowner photographs of the main electrical panel (circuit labels); rear-landscape plan (Kevens Landscape) showing three A/C condenser locations. Equipment specifications not yet provided by the builder.
 
-> This is the **largest documentation gap** in the repo. The system clearly exists, but no equipment specifications or mechanical drawings are in the owner's documents.
+## System configuration
+Three systems total - two central split systems and one mini-split:
 
-## What is documented
-- At least 2 air-conditioning condenser pads on the right side of the house (plot plan)
-- The rear-landscape plan shows 3 air-conditioning symbols
-- HOA rules: roof-mounted A/C units are prohibited; window A/C units are prohibited
+| System | Air handler | Condenser | Notes |
+|---|---|---|---|
+| Central 1 (north) | North Air Handler | Front North A/C #1 | Serves north zone |
+| Central 2 (south) | South Air Handler | Back South A/C #2 | Serves south zone |
+| Mini-split | (none) | Mini Split | Single zone; area served not specified |
 
-## Not specified in documents
-- Number of condensing units and their tonnage
-- SEER (efficiency) rating
-- Air handler / furnace type and location
-- Refrigerant line routing
-- Duct layout and supply/return register locations per room
-- Manual J / S / D (load, equipment-sizing, and duct-design calculations)
-- Thermostat zoning
+This matches the three A/C condenser symbols on the rear-landscape plan.
 
-(All requested from builder — see `_meta/open-gaps.md`. Until received, treat HVAC equipment details as unknown.)
+## Known
+- System count and zoning (above), from panel circuit labels.
+- Each central system has a dedicated air handler and condenser on its own breakers.
+
+## Not specified
+- Tonnage / cooling capacity per system.
+- SEER / efficiency ratings.
+- Equipment manufacturer and model numbers.
+- Heating type (heat pump vs. gas furnace); gas routing also unconfirmed (see `05-plumbing-gas.md`).
+- Refrigerant type and line-set sizing.
+- Ductwork / Manual D design; Manual J/S load and equipment sizing.
+- Thermostat make/model and zoning controls.
+- Area served by the mini-split.
+
+## Source to close the gaps
+HVAC plan and equipment cut sheets requested from Elliott Homes (builder document request, item 5). A mechanical permit/inspection record under Maricopa County may also list equipment.

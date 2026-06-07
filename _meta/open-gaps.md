@@ -20,3 +20,9 @@ These items are not in the owner's documents and were requested from Elliott Hom
 
 ## Already in hand (do not re-request)
 Plot plan, setbacks, lot dimensions, floor layout, finish/color sheet, electrical device layout, plumbing fixture plan, HOA guidelines, pool, solar, EV charging, front and rear landscape.
+
+## Update - panel photographs (2026-06)
+- Service amperage: RESOLVED - 200A confirmed (see `04b-electrical-as-built.md`).
+- HVAC system configuration: RESOLVED - two central split systems + one mini-split (see `06-hvac.md`); tonnage/SEER/models still open.
+- Panel schedule: PARTIAL - circuit directory captured from panel labels (`04b-electrical-as-built.md`); breaker-by-breaker amperages and a stamped load calc still needed from a licensed electrician.
+- Permit / Certificate of Occupancy: PARTIAL - Maricopa County electrical inspection/approval stickers on the panel (dates partially legible, 2023); full permit card / CO still outstanding.
